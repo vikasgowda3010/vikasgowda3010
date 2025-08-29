@@ -31,6 +31,6 @@ Passionate about building scalable web applications, integrating secure payment 
 - 🌐 [GitHub](https://github.com/vikasgowda3010)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-id)  
 - 🐳 [Docker Hub](https://hub.docker.com/u/your-dockerhub-id)  
-- ✉️ Email: yourname@example.com  
+- ✉️ Email: mgvikas6336@gmail.com  
 
 ---
