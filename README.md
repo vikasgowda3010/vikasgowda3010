@@ -31,16 +31,6 @@ Passionate about building scalable web applications, integrating secure payment 
 
 ---
 
-## 🔝 Top Contributed Repositories  
-
-<p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=vikasgowda3010&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-</p>
-
----
-
 ## 📫 How to Reach Me  
 
 - 🌐 **GitHub**  
