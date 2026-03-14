@@ -33,10 +33,8 @@ Passionate about building scalable web applications, integrating secure payment 
 </p>
 
 <p align="center">
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vikasgowda3010&theme=tokyonight&hide_border=true&border_radius=10"/>
-</p></p>
+<img src="https://streak-stats.demolab.com?user=vikasgowda3010&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+</p>
 
 ---
 
