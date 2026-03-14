@@ -19,9 +19,11 @@ Passionate about building scalable web applications, integrating secure payment 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=vikasgowda3010&theme=tokyonight)
 
-### 🔝 Top Contributed Repositories  
+---
 
-![Repo Card](https://github-contributor-stats.vercel.app/api?username=vikasgowda3010&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
+### 🔝 Top Contributed Repositories
+
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=vikasgowda3010&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
