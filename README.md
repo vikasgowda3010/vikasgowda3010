@@ -15,12 +15,29 @@ Passionate about building scalable web applications, integrating secure payment 
 
 ---
 
-## 📈 GitHub Statistics
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikasgowda3010&show_icons=true&locale=en&layout=compact" alt="vikasgowda3010" /></p>
+## 📈 GitHub Statistics  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikasgowda3010&show_icons=true&locale=en" alt="vikasgowda3010" /></p>
+<p align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikasgowda3010&" alt="vikasgowda3010" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=vikasgowda3010&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasgowda3010&layout=compact&theme=tokyonight" height="170"/>
+
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=vikasgowda3010&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+</p>
+
+---
+
+## 🔝 Top Contributed Repositories  
+
+<p align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=vikasgowda3010&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+
+</p>
 
 ---
 
