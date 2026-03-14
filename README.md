@@ -13,13 +13,11 @@ Passionate about building scalable web applications, integrating secure payment 
 
 ### 📈 GitHub Statistics  
 
-![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikasgowda3010&show_icons=true&theme=tokyonight)  
+![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikasgowda3010&show_icons=true&theme=tokyonight&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasgowda3010&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasgowda3010&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikasgowda3010&theme=tokyonight)  
-
----
+![GitHub Streak](https://streak-stats.demolab.com?user=vikasgowda3010&theme=tokyonight)
 
 ### 🔝 Top Contributed Repositories  
 
